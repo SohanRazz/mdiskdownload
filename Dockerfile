@@ -1,6 +1,6 @@
 FROM python:3.10
 
-WORKDIR /webx
+WORKDIR /mdiskdownload
 
 COPY requirements.txt ./
 
